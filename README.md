@@ -8,7 +8,7 @@ $ mvn clean package
 to run code 
 $ java -jar target/findlongestcomoundstring-0.1.jar 
 
-<<< sample output --------------------------------- >>>
+#######  sample output
 file - wordsforproblem.txt
 ----------------------------------------------
 1st longest: ethylenediaminetetraacetates , len: 28
@@ -16,4 +16,4 @@ file - wordsforproblem.txt
 
 ----------------------END------------------------
 Total number of words: 106891
-<<< sample output - end ----------------------------------- >>>
+i############### sample output  - END
